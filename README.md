@@ -187,5 +187,5 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## Contact
 
-Your Name – [osintbuddy.research.com](mailto:osintbuddy.research.com)  
+Osint Buddy – [osintbuddy.research.com](mailto:osintbuddy.research.com)  
 Project Link: [https://github.com/osintBuddy-Research/exif-data-extractor](https://github.com/osintBuddy-Research/exif-data-extractor)
