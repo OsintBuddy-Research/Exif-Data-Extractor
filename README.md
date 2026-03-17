@@ -189,8 +189,3 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 Your Name – [osintbuddy.research.com](mailto:osintbuddy.research.com)  
 Project Link: [https://github.com/osintBuddy-Research/exif-data-extractor](https://github.com/osintBuddy-Research/exif-data-extractor)
-```
-
----
-
- in your project root and then upload it manually or via Git. It will give visitors a clear overview of your project.
