@@ -193,11 +193,4 @@ Project Link: [https://github.com/osintBuddy-Research/exif-data-extractor](https
 
 ---
 
-## Customization Tips
-
-- Replace `your-username` with your actual GitHub username.
-- Update the email and name in the "Contact" section.
-- If you create a `LICENSE` file, include the MIT license text (optional).
-- Adjust the repository name if you used something other than `exif-extractor`.
-
-You can save this as `README.md` in your project root and then upload it manually or via Git. It will give visitors a clear overview of your project.
+ in your project root and then upload it manually or via Git. It will give visitors a clear overview of your project.
