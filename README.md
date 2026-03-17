@@ -187,8 +187,8 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## Contact
 
-Your Name – [your.email@example.com](mailto:osintbuddy.research.com)  
-Project Link: [https://github.com/your-username/exif-extractor](https://github.com/osintBuddy-Research/exif-data-extractor)
+Your Name – [osintbuddy.research.com](mailto:osintbuddy.research.com)  
+Project Link: [https://github.com/osintBuddy-Research/exif-data-extractor](https://github.com/osintBuddy-Research/exif-data-extractor)
 ```
 
 ---
