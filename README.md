@@ -8,7 +8,7 @@ Supports both command‑line and graphical interfaces, with two extraction backe
 
 ## Features
 
-- **Dual extraction backends** – Choose between `exif` (modern, attribute‑based) and `exifread` (raw tag names).
+- ** Dual extraction backends ** – Choose between `exif` (modern, attribute‑based) and `exifread` (raw tag names).
 - **CLI with advanced options** – Filter by tag, output as JSON, scan folders recursively.
 - **Graphical interface** – Simple Tkinter GUI with file picker and scrollable output.
 - **GPS decoding** – Converts raw GPS coordinates to decimal degrees.
