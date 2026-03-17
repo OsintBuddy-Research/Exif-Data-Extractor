@@ -8,7 +8,7 @@ version = "1.0.0"
 description = "Production-grade EXIF metadata extraction toolkit"
 readme = "README.md"
 authors = [
-    {name = "Osint Buddy", email = "your.osintbuddy.research@gmail.com"}
+    {name = "Osint Buddy", email = "osintbuddy.research@gmail.com"}
 ]
 license = {text = "MIT"}
 classifiers = [
